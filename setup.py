@@ -72,7 +72,7 @@ setup(
     python_requires=">=3.6",
     install_requires=[
         "ctranslate2>=2.17.0,<3",
-        "pyonmttok>=1.29.0,<2",
+#        "pyonmttok>=1.29.0,<2",
         "pyyaml>=5.3,<7",
         "rouge>=1.0,<2",
         "sacrebleu>=1.5.0,<2.1",
